@@ -13,5 +13,8 @@ public class Main {
         poster.birthday.day = 13;
         poster.birthday.month = 6;
         poster.birthday.year = 1999;
+
+        System.out.println(poster.name);
+        System.out.println(poster.patronymic);
     }
 }
